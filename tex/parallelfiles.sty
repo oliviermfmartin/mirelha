@@ -1,0 +1,7 @@
+\directlua{
+    dofile("parallelfiles.lua")
+}
+
+\newcommand{\parallelfiles}[2]{
+    \directlua{ parallel_files("#1", "#2") }
+}
