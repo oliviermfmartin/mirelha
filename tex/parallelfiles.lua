@@ -16,8 +16,8 @@ function parallel_files(f1, f2)
     local right = io.open(f2,"r"):read("*a"):gsub("\r","");
     local right_pars = paragraphs(right);
 
-    print(right);
-    print(right_pars[1]);
+    -- print(right);
+    -- print(right_pars[1]);
 
     if (#left_pars ~= #right_pars) then
         tex.print("\\PackageWarning{parallelfiles}{Warning, the files do not have the same number of paragraphs}");

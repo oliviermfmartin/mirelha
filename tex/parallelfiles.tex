@@ -1,0 +1,22 @@
+\documentclass[12pt]{book}
+\usepackage{luacode}
+\usepackage{yfonts,color,lettrine,pdfcolparallel}
+\usepackage{parallelfiles}
+\usepackage[francais]{babel}
+\usepackage{fontspec}
+\usepackage[landscape,a3paper]{geometry}
+\usepackage{fancyhdr,lipsum}
+
+\pagestyle{fancy}
+\fancyhf{}% Clear header/footer
+\lfoot{\makebox[.45\textwidth]{\thepage}}
+\rfoot{\makebox[.45\textwidth]{\number\numexpr\value{page}+1}\stepcounter{page}}
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{4em}
+
+\begin{document}
+\begin{Parallel}{.45\textwidth}{.45\textwidth}
+\parallelfiles{../txt/mirelha.txt}{../txt/mireille.txt}
+\end{Parallel}
+\end{document}

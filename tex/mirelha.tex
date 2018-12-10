@@ -1,16 +1,6 @@
-\documentclass{article}
-\usepackage{luacode}
-\usepackage{yfonts,color,lettrine,pdfcolparallel}
-\usepackage{parallelfiles}
-\usepackage[francais]{babel}
-\usepackage{fontspec}
-\usepackage[landscape]{geometry}
-
-\setlength{\parindent}{0em}
-\setlength{\parskip}{4em}
+\documentclass[a4paper]{article}
+\usepackage{pdfpages}
 
 \begin{document}
-\begin{Parallel}{.45\textwidth}{.45\textwidth}
-\parallelfiles{../txt/mirelha2.txt}{../txt/mireille2.txt}
-\end{Parallel}
-\end{document}
+\includepdf[pages=-, nup=2x1, landscape, signature*=32, angle=180]{./add_cover.pdf}
+\end{document} 
