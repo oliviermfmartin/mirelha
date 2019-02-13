@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)  (format=lualatex 2018.12.1)  11 DEC 2018 00:25
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)  (format=lualatex 2018.11.27)  11 DEC 2018 17:48
  restricted \write18 enabled.
 **./parallelfiles.tex
 (./parallelfiles.tex
@@ -142,84 +142,84 @@ Package: babel 2016/02/24 3.9q The Babel package
 (/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
 \l@dumylang=\language1
 \l@nohyphenation=\language2
-\l@portuguese=\language3
-\l@marathi=\language4
-\l@german=\language5
-\l@ancientgreek=\language6
-\l@swedish=\language7
-\l@turkish=\language8
-\l@serbianc=\language9
-\l@sanskrit=\language10
-\l@malayalam=\language11
-\l@ethiopic=\language12
-\l@friulan=\language13
-\l@esperanto=\language14
-\l@bokmal=\language15
-\l@hindi=\language16
-\l@indonesian=\language17
-\l@kannada=\language18
-\l@ngerman=\language19
+\l@danish=\language3
+\l@oriya=\language4
+\l@classiclatin=\language5
+\l@ngerman-x-2014-05-21=\language6
+\l@serbian=\language7
+\l@farsi=\language8
+\l@armenian=\language9
+\l@kannada=\language10
+\l@indonesian=\language11
+\l@hungarian=\language12
+\l@swissgerman=\language13
+\l@czech=\language14
+\l@slovenian=\language15
+\l@mongolian=\language16
+\l@marathi=\language17
+\l@malayalam=\language18
+\l@gujarati=\language19
 \l@panjabi=\language20
-\l@latin=\language21
-\l@armenian=\language22
-\l@usenglishmax=\language23
-\l@french=\language24
-\l@afrikaans=\language25
-\l@basque=\language26
-\l@ukrainian=\language27
-\l@catalan=\language28
-\l@coptic=\language29
-\l@georgian=\language30
-\l@telugu=\language31
-\l@gujarati=\language32
-\l@greek=\language33
-\l@nynorsk=\language34
-\l@mongolianlmc=\language35
-\l@russian=\language36
-\l@kurmanji=\language37
-\l@swissgerman=\language38
-\l@interlingua=\language39
+\l@german=\language21
+\l@interlingua=\language22
+\l@ukenglish=\language23
+\l@turkish=\language24
+\l@french=\language25
+\l@hindi=\language26
+\l@mongolianlmc=\language27
+\l@slovak=\language28
+\l@greek=\language29
+\l@occitan=\language30
+\l@assamese=\language31
+\l@italian=\language32
+\l@uppersorbian=\language33
+\l@dutch=\language34
+\l@bengali=\language35
+\l@ukrainian=\language36
+\l@estonian=\language37
+\l@swedish=\language38
+\l@ibycus=\language39
 \l@welsh=\language40
-\l@tamil=\language41
+\l@galician=\language41
 \l@bulgarian=\language42
-\l@romanian=\language43
-\l@german-x-2014-05-21=\language44
-\l@pinyin=\language45
-\l@estonian=\language46
-\l@finnish=\language47
-\l@assamese=\language48
-\l@mongolian=\language49
-\l@spanish=\language50
-\l@czech=\language51
-\l@croatian=\language52
-\l@ukenglish=\language53
-\l@hungarian=\language54
-\l@arabic=\language55
-\l@romansh=\language56
-\l@occitan=\language57
-\l@ibycus=\language58
-\l@irish=\language59
-\l@serbian=\language60
-\l@danish=\language61
-\l@italian=\language62
-\l@farsi=\language63
-\l@dutch=\language64
-\l@slovak=\language65
-\l@icelandic=\language66
-\l@classiclatin=\language67
-\l@latvian=\language68
-\l@polish=\language69
-\l@piedmontese=\language70
-\l@turkmen=\language71
-\l@galician=\language72
-\l@thai=\language73
-\l@ngerman-x-2014-05-21=\language74
-\l@monogreek=\language75
-\l@lithuanian=\language76
-\l@oriya=\language77
-\l@slovenian=\language78
-\l@bengali=\language79
-\l@uppersorbian=\language80
+\l@tamil=\language43
+\l@portuguese=\language44
+\l@icelandic=\language45
+\l@usenglishmax=\language46
+\l@ethiopic=\language47
+\l@ngerman=\language48
+\l@serbianc=\language49
+\l@friulan=\language50
+\l@basque=\language51
+\l@lithuanian=\language52
+\l@polish=\language53
+\l@georgian=\language54
+\l@finnish=\language55
+\l@monogreek=\language56
+\l@romansh=\language57
+\l@irish=\language58
+\l@piedmontese=\language59
+\l@esperanto=\language60
+\l@nynorsk=\language61
+\l@romanian=\language62
+\l@catalan=\language63
+\l@german-x-2014-05-21=\language64
+\l@russian=\language65
+\l@kurmanji=\language66
+\l@croatian=\language67
+\l@bokmal=\language68
+\l@turkmen=\language69
+\l@afrikaans=\language70
+\l@telugu=\language71
+\l@thai=\language72
+\l@arabic=\language73
+\l@sanskrit=\language74
+\l@ancientgreek=\language75
+\l@latvian=\language76
+\l@latin=\language77
+\l@coptic=\language78
+\l@spanish=\language79
+\l@pinyin=\language80
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel-french/frenchb.ldf
 Language: frenchb 2016/02/13 v3.1l French support from the babel system
@@ -415,7 +415,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.050 seconds)
+luaotfload | main : initialization completed in 0.039 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -440,11 +440,12 @@ LaTeX Font Info:    Try loading font information for EU2+lmr on input line 105.
 File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 luaotfload | db : Font names database loaded from /home/olivier/.texmf-var/luate
-x-cache/generic/names/luaotfload-names.luc(load luc: /var/lib/texmf/luatex-cache
-/generic/fonts/otf/lmroman10-regular.luc))(compiling luc: /var/lib/texmf/luatex-
-cache/generic/fonts/otf/lmroman12-regular.luc)(load luc: /home/olivier/.texmf-va
-r/luatex-cache/generic/fonts/otf/lmroman12-regular.luc)
-(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+x-cache/generic/names/luaotfload-names.luc(compiling luc: /var/lib/texmf/luatex-
+cache/generic/fonts/otf/lmroman10-regular.luc)(load luc: /home/olivier/.texmf-va
+r/luatex-cache/generic/fonts/otf/lmroman10-regular.luc))(compiling luc: /var/lib
+/texmf/luatex-cache/generic/fonts/otf/lmroman12-regular.luc)(load luc: /home/oli
+vier/.texmf-var/luatex-cache/generic/fonts/otf/lmroman12-regular.luc) (/usr/sha
+re/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many o
 ther characters in Unicode lower plane
 
@@ -35628,7 +35629,7 @@ c, 1627 attribute_list, 1 write nodes
  48i,12n,43p,371b,305s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/tex
 mf/fonts/opentype/public/lm/lmroman12-bold.otf>
-Output written on parallelfiles.pdf (209 pages, 584260 bytes).
+Output written on parallelfiles.pdf (209 pages, 584264 bytes).
 
 PDF statistics: 674 PDF objects out of 1000 (max. 8388607)
  452 compressed objects within 5 object streams

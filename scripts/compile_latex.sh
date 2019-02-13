@@ -16,8 +16,3 @@ pdflatex add_cover.tex
 
 # make book
 pdflatex mirelha.tex
-
-# clean-up
-mv mirelha.pdf ../pdf
-# rm -f *.pdf
-cd ..
